@@ -6,4 +6,6 @@
 
 全部代码开源，欢迎交流！
 
+开发阶段主页：[http://bate.mooko.net](http://bate.mooko.net)
+
 官方主页：[http://mooko.net](http://mooko.net)
