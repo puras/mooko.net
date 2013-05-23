@@ -9,5 +9,3 @@
 开发阶段主页：[http://bate.mooko.net](http://bate.mooko.net)
 
 官方主页：[http://mooko.net](http://mooko.net)
-
-测试一下
